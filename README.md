@@ -7,23 +7,19 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Koero-0077B5?style=flat&logo=linkedin)
 
-](https://linkedin.com/in/jameskoero)
-[
+](https://linkedin.com/in/jameskoero) [
 
 ![Twitter](https://img.shields.io/badge/Twitter-jmsOnyango-1DA1F2?style=flat&logo=twitter)
 
-](https://twitter.com/jmsOnyango)
-[
+](https://twitter.com/jmsOnyango) [
 
 ![Email](https://img.shields.io/badge/Email-jmskoero%40gmail.com-D14836?style=flat&logo=gmail)
 
-](mailto:jmskoero@gmail.com)
-[
+](mailto:jmskoero@gmail.com) [
 
 ![Hire Me](https://img.shields.io/badge/Open%20To-Remote%20ML%20Roles-brightgreen?style=flat)
 
-](https://linkedin.com/in/jameskoero)
-
+](https://linkedin.com/in/jameskoero) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jameskoero&color=0077B5&style=flat)
 
@@ -35,14 +31,9 @@
 
 ## 🧑‍💻 About Me
 
-**Self-taught Junior ML Engineer** from **Kisumu, Kenya** 🇰🇪 — building
-production-ready ML systems that solve real African problems, from flood
-prediction to salary transparency.
+**Self-taught ML Engineer** from **Kisumu, Kenya** 🇰🇪 — building production-ready ML systems that solve real African problems, from flood prediction to salary transparency.
 
-With a strong foundation in **Physics and Mathematics** from Moi University
-and hands-on geophysical research at KenGen's Olkaria Geothermal Project,
-I bring scientific rigour to every ML system I build —
-coded entirely on **Android (Termux + PyramIDE)**.
+With a strong foundation in **Physics and Mathematics** from Moi University and hands-on geophysical research at KenGen's Olkaria Geothermal Project, I bring scientific rigour to every ML system I build — coded entirely on **Android (Termux + PyramIDE)**.
 
 - 🎓 **B.Sc. Physics (Major) + Mathematics (Minor)** — Moi University, 2012
 - 🏭 **Industrial Attachment** — KenGen Olkaria Geothermal Project, 2011 (MT and TEM methods)
@@ -71,18 +62,15 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-
-
+ 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-
-
+ 
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 
-
-
+ 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 
@@ -94,18 +82,15 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-
-
+ 
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 
-
-
+ 
 
 ![GradientBoosting](https://img.shields.io/badge/GradientBoosting-Scikit--learn-blue?style=flat)
 
-
-
+ 
 
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat)
 
@@ -125,28 +110,23 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-
-
+ 
 
 ![Flask](https://img.shields.io/badge/Flask%203.0-000000?style=flat&logo=flask)
 
-
-
+ 
 
 ![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat&logo=react&logoColor=black)
 
-
-
+ 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
-
+ 
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
-
-
+ 
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
 
@@ -158,18 +138,15 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-
-
+ 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
-
+ 
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-
-
+ 
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
@@ -186,13 +163,11 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![Live API](https://img.shields.io/badge/Live%20API-nyando--flood--api.onrender.com-green?style=flat)
 
-](https://nyando-flood-api.onrender.com/docs)
-[
+](https://nyando-flood-api.onrender.com/docs) [
 
 ![CI](https://img.shields.io/badge/CI-41%20tests%20passing-brightgreen?style=flat)
 
-]()
-[
+](https://github.com/jameskoero/nyando-flood-ai) [
 
 ![Repo](https://img.shields.io/badge/GitHub-nyando--flood--ai-181717?style=flat&logo=github)
 
@@ -218,13 +193,11 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![Live API](https://img.shields.io/badge/Live%20API-afrisalaries.onrender.com-green?style=flat)
 
-](https://afrisalaries.onrender.com/docs)
-[
+](https://afrisalaries.onrender.com/docs) [
 
 ![Frontend](https://img.shields.io/badge/Frontend-afrisalaries.vercel.app-blue?style=flat)
 
-](https://afrisalaries.vercel.app)
-[
+](https://afrisalaries.vercel.app) [
 
 ![Repo](https://img.shields.io/badge/GitHub-afrisalaries-181717?style=flat&logo=github)
 
@@ -286,8 +259,7 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![Live](https://img.shields.io/badge/Live-cmdms.onrender.com-green?style=flat)
 
-](https://cmdms.onrender.com)
-[
+](https://cmdms.onrender.com) [
 
 ![Repo](https://img.shields.io/badge/GitHub-cmdms--web-181717?style=flat&logo=github)
 
@@ -329,11 +301,11 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 
 
-[
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jameskoero&theme=dark&hide_border=true)
 
-](https://git.io/streak-stats)
+
 
 </div>
 
@@ -364,10 +336,7 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ## 💭 Engineering Philosophy
 
-> "I build production ML systems — not just notebooks. My Physics and Mathematics background
-> means I think carefully about what a model is actually measuring before I trust its output.
-> Every project I ship has a live URL, SHAP explainability, and a real problem it solves —
-> because that is what actually helps people and what gets you hired."
+> "I build production ML systems — not just notebooks. My Physics and Mathematics background means I think carefully about what a model is actually measuring before I trust its output. Every project I ship has a live URL, SHAP explainability, and a real problem it solves — because that is what actually helps people and what gets you hired."
 
 ---
 
