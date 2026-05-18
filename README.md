@@ -379,23 +379,19 @@ coded entirely on **Android (Termux + PyramIDE)**.
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)
 
-](https://linkedin.com/in/jameskoero)
-[
+](https://linkedin.com/in/jameskoero) [
 
 ![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat&logo=gmail)
 
-](mailto:jmskoero@gmail.com)
-[
+](mailto:jmskoero@gmail.com) [
 
 ![CMDMS](https://img.shields.io/badge/Live%20App-CMDMS-green?style=flat)
 
-](https://cmdms.onrender.com)
-[
+](https://cmdms.onrender.com) [
 
 ![Nyando](https://img.shields.io/badge/Live%20API-Nyando%20Flood%20AI-blue?style=flat)
 
-](https://nyando-flood-api.onrender.com/docs)
-[
+](https://nyando-flood-api.onrender.com/docs) [
 
 ![AfriSalaries](https://img.shields.io/badge/Live%20API-AfriSalaries-orange?style=flat)
 
