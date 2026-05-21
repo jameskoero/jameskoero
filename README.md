@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm James Koero
+# Hi 👋, I'm james koero
 ### Junior ML Engineer | Physics & Math Background | Building AI for Africa 🌍
 
 [
