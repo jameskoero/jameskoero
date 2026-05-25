@@ -287,17 +287,13 @@ With a strong foundation in **Physics and Mathematics** from Moi University and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-
-
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameskoero&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=jameskoero&show_icons=true&theme=dark)
 
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskoero&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskoero&layout=compact&theme=dark)
 
 
 
