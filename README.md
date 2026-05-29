@@ -1,8 +1,6 @@
 # Hi 👋, I'm James Koero
 
 ### ML Engineer | 3 Live APIs · AUC 0.9717 · Docker · SHAP | Physics & Math · Moi University | Open to Remote Roles
-
-
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-jameskoero-0A66C2?style=flat&logo=linkedin&logoColor=white)
@@ -90,7 +88,6 @@ a real problem it solves — built entirely on Android (Termux · PyramIDE · Co
 **Machine Learning and AI**
 
 
-
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
  
@@ -144,7 +141,6 @@ a real problem it solves — built entirely on Android (Termux · PyramIDE · Co
  
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
 
 
 ---
