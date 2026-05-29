@@ -151,7 +151,7 @@ a real problem it solves — built entirely on Android (Termux · PyramIDE · Co
 |---|---|---|---|
 | 🌊 [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting · 2,308 GEE satellite points · AUC 0.97 · 50K residents | sklearn · FastAPI · Docker · GEE | [API](https://nyando-flood-api.onrender.com/docs) |
 | 💼 [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier · 8 African countries · E2E 88% accuracy | XGBoost · FastAPI · Vercel | [App](https://afrisalaries.vercel.app) |
-| ⛪ [ChurchOS](https://github.com/jameskoero/cmdms-v2) | Africa-first multi-tenant church SaaS · M-Pesa · JWT RBAC · PWA | Flask · React · PostgreSQL · Railway | [Demo](https://churchos.vercel.app) |
+| ⛪ [ChurchOS](https://github.com/jameskoero/ChurchOS) | Africa-first multi-tenant church SaaS · M-Pesa · JWT RBAC · PWA | Flask · React · PostgreSQL · Railway | [Demo](https://churchos.vercel.app) |
 | 🚢 [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline · SHAP waterfalls · Bootstrap CIs · 13 charts · DOI | sklearn · Streamlit · FastAPI | [Demo](https://titanic-koero.streamlit.app) |
 | 🏦 [Loan Risk](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing · Gini 0.74 · IFRS 9 staging · EL = PD × LGD × EAD | sklearn · pandas | — |
 
@@ -195,7 +195,7 @@ a real problem it solves — built entirely on Android (Termux · PyramIDE · Co
 |---|---|---|---|
 | ✅ Live | [Nyando Flood Risk AI](https://github.com/jameskoero/nyando-flood-ai) | Climate / Disaster | GEE Satellite |
 | ✅ Live | [AfriSalaries Classifier](https://github.com/jameskoero/afrisalaries) | Labour Economics | Web-scraped |
-| ✅ Live | [ChurchOS](https://github.com/jameskoero/cmdms-v2) | SaaS / Web App | PostgreSQL |
+| ✅ Live | [ChurchOS](https://github.com/jameskoero/ChurchOS) | SaaS / Web App | PostgreSQL |
 | ✅ Live | [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | FinTech / Banking | Synthetic + Real |
 | ✅ Live | [Titanic Survival Prediction](https://github.com/jameskoero/titanic-survival-prediction) | Education / Portfolio | Kaggle |
 | 🔜 Planned | Malaria Outbreak Prediction | Public Health | WHO, DHIS2 |
