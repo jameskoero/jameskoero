@@ -2,6 +2,7 @@
 
 ### ML Engineer | 3 Live APIs · AUC 0.9717 · Docker · SHAP | Physics & Math · Moi University | Open to Remote Roles
 
+
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-jameskoero-0A66C2?style=flat&logo=linkedin&logoColor=white)
@@ -19,6 +20,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jameskoero&label=Profile+Views&color=0A1628&style=flat)
 
 ](https://github.com/jameskoero)
+
+
+
 
 ---
 
