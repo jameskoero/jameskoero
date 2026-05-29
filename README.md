@@ -3,23 +3,7 @@
 ### ML Engineer | 3 Live APIs · AUC 0.9717 · Docker · SHAP | Physics & Math · Moi University | Open to Remote Roles
 
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-jameskoero-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/jameskoero) [
-
-![Email](https://img.shields.io/badge/Email-jameskoero%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
-
-](mailto:jameskoero@gmail.com) [
-
-![Portfolio](https://img.shields.io/badge/Portfolio-nyando--flood--api-0A1628?style=flat&logo=render&logoColor=white)
-
-](https://nyando-flood-api.onrender.com/docs) [
-
-![Profile Views](https://komarev.com/ghpvc/?username=jameskoero&label=Profile+Views&color=0A1628&style=flat)
-
-](https://github.com/jameskoero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jameskoero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameskoero) [![Email](https://img.shields.io/badge/Email-jameskoero%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jameskoero@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-nyando--flood--api-0A1628?style=flat&logo=render&logoColor=white)](https://nyando-flood-api.onrender.com/docs) [![Profile Views](https://komarev.com/ghpvc/?username=jameskoero&label=Profile+Views&color=0A1628&style=flat)](https://github.com/jameskoero)
 ---
 
 ## 🧑‍💻 About Me
@@ -67,38 +51,22 @@ a real problem it solves — built entirely on Android (Termux · PyramIDE · Co
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
  
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
- 
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
- 
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 
 
 **Machine Learning and AI**
 
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 
  
 
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-
- 
-
-![GradientBoosting](https://img.shields.io/badge/GradientBoosting-0A1628?style=flat)
-
- 
-
-![SHAP](https://img.shields.io/badge/SHAP-C9A84C?style=flat)
+![GradientBoosting](https://img.shields.io/badge/GradientBoosting-0A1628?style=flat) ![SHAP](https://img.shields.io/badge/SHAP-C9A84C?style=flat)
 
  
 
@@ -108,35 +76,19 @@ a real problem it solves — built entirely on Android (Termux · PyramIDE · Co
 
 
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
  
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
  
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
  
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
- 
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
- 
-
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
- 
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
- 
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -156,13 +108,7 @@ a real problem it solves — built entirely on Android (Termux · PyramIDE · Co
 
 
 
-![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameskoero&show_icons=true&theme=dark&bg_color=0A1628&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&border_color=C9A84C&include_all_commits=true&count_private=true)
-
-
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jameskoero&theme=dark&background=0A1628&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=C9A84C)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameskoero&show_icons=true&theme=dark&bg_color=0A1628&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&border_color=C9A84C&include_all_commits=true&count_private=true) ![GitHub Streak](https://streak-stats.demolab.com?user=jameskoero&theme=dark&background=0A1628&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=C9A84C)
 
 
 
