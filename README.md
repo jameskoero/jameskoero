@@ -1,6 +1,6 @@
 # Hi, I am James Koero
 
-### ML Engineer | 5 Live APIs in Production | Physics and Mathematics | Kisumu, Kenya | Open to Remote Roles Globally
+### ML Engineer | 6 Live Projects in Production | Physics and Mathematics | Kisumu, Kenya | Open to Remote Roles Globally
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A84C&width=500&lines=ML+Engineer+from+Kisumu+Kenya;Building+AI+for+Real+African+Problems;5+Live+APIs+in+Production;Built+entirely+on+Android)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A84C&width=500&lines=ML+Engineer+from+Kisumu+Kenya;6+Live+Projects+in+Production;Building+AI+for+Real+African+Problems;Built+entirely+on+Android)
 
 
 
@@ -42,6 +42,7 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 - Industrial Attachment — KenGen Olkaria Geothermal Project, 2011
 - Research — Eburru Geothermal Prospect geophysical study
 - Location — Kisumu, Kenya (near Lake Victoria)
+- Email — jmskoero@gmail.com
 - Timezone — EAT (UTC+3), Available 08:00-17:00, Async-friendly for EU/US
 - Open To — Remote ML Engineering, AI Engineering, Data Science roles globally
 - Also Open To — Research collaborations and grant-funded projects in climate, fintech, and public health
@@ -153,9 +154,9 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 | [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 50K residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, GEE | [Live API](https://nyando-flood-api.onrender.com/docs) |
 | [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React 18, Vercel | [Live](https://afrisalaries.vercel.app) |
 | [ChurchOS](https://github.com/jameskoero/ChurchOS) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log | Flask 3.0, React 18, PostgreSQL, Render, Vercel | [Live](https://churchos-app.vercel.app) |
+| [SegmentIQ - K-Means App](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | Live ML app — predict customer segment from age, income, spending score. CSV batch upload. 5 segments, Kenyan market strategy | scikit-learn, FastAPI, React, Render, Vercel | [Live App](https://kmeans-customer-segmentation.vercel.app) |
 | [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline, SHAP waterfalls, StratifiedKFold, Bootstrap CIs, 12 tests, Zenodo DOI, AUC 0.8661 | scikit-learn, SHAP, Streamlit, FastAPI | [Live](https://titanic-koero.streamlit.app) |
 | [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing, Gini 0.74, IFRS 9 staging, EL = PD x LGD x EAD, saves 23% cost | scikit-learn, pandas, FastAPI | - |
-| [K-Means Segmentation](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | 5 customer segments, Revenue gap analysis, Kenyan market localisation, 6 visuals | scikit-learn, matplotlib, Google Colab | [Repo](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) |
 
 ---
 
@@ -200,7 +201,7 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 | Live | [ChurchOS](https://github.com/jameskoero/ChurchOS) | SaaS and Web App | PostgreSQL |
 | Live | [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | FinTech and Banking | Synthetic and Real |
 | Live | [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Education and Portfolio | Kaggle |
-| Live | [K-Means Segmentation](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | Retail Analytics | Kaggle |
+| Live | [SegmentIQ K-Means App](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | Retail Analytics and ML App | Kaggle |
 | Planned | RAG AI Insights Engine | LLM Engineering | PostgreSQL and pgvector |
 | Planned | QLoRA Fine-tuned Llama 3 | LLM Engineering | Custom |
 | Planned | Agentic WhatsApp AI App | Agentic AI | LangGraph and Render |
