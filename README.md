@@ -182,14 +182,6 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 ---
 
-## GitHub Trophies
-
-
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jameskoero&theme=onedark&column=4&margin-w=15)
-
-
-
 ---
 
 ## Project Roadmap
