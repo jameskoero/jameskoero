@@ -186,7 +186,7 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jameskoero&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jameskoero&theme=onedark&column=4&margin-w=15)
 
 
 
