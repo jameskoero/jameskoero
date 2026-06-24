@@ -46,7 +46,7 @@ a real problem it solves — built entirely on Android (Termux · Google Colab).
 - Research — Eburru Geothermal Prospect geophysical study
 - Location — Kisumu, Kenya (near Lake Victoria)
 - Timezone — EAT (UTC+3) · Available 08:00-17:00 · Async-friendly for EU/US
-- Open To — Remote ML Engineering / AI Engineering / Data Science roles globally
+- Open To — Remote ML Engineering, AI Engineering, Data Science roles globally
 - Also Open To — Research collaborations and grant-funded projects in climate, fintech, and public health
 
 ---
@@ -55,8 +55,8 @@ a real problem it solves — built entirely on Android (Termux · Google Colab).
 
 - Exploring: LLM Engineering — RAG pipelines, pgvector on Neon, LangGraph agentic AI
 - Building: RAG-powered AI insights engine as ChurchOS premium tier
-- Next: QLoRA fine-tuning on Llama 3 / Mistral via Colab T4
-- Ask me about: flood prediction · African salary data · church management SaaS · K-Means segmentation
+- Next: QLoRA fine-tuning on Llama 3 and Mistral via Colab T4
+- Ask me about: flood prediction, African salary data, church management SaaS, K-Means segmentation
 
 ---
 
@@ -65,7 +65,7 @@ a real problem it solves — built entirely on Android (Termux · Google Colab).
 - Build end-to-end ML systems — raw data to feature engineering to model training to live API
 - Apply Physics and Mathematics background to feature engineering and model evaluation
 - Reduce real disaster risk — Nyando Flood AI gives 50,000 Kano Plains residents earlier warning
-- Ship production-grade code — FastAPI · Flask · Docker · GitHub Actions CI/CD
+- Ship production-grade code — FastAPI, Flask, Docker, GitHub Actions CI/CD
 - Explain every prediction with SHAP — because unexplainable AI is not good enough
 - Build secure multi-tenant SaaS — JWT rotation, RBAC, M-Pesa payment integration
 - Localise global ML techniques to African business contexts — M-Pesa, Safaricom, Naivas, BNPL
@@ -74,7 +74,7 @@ a real problem it solves — built entirely on Android (Termux · Google Colab).
 
 ## Tech Stack
 
-Languages and Data
+**Languages and Data**
 
 
 
@@ -97,7 +97,7 @@ Languages and Data
 
 
 
-Machine Learning and AI
+**Machine Learning and AI**
 
 
 
@@ -125,7 +125,7 @@ Machine Learning and AI
 
 
 
-Web and Deployment
+**Web and Deployment**
 
 
 
@@ -149,7 +149,7 @@ Web and Deployment
 
 
 
-![Render](https://img.shields.io/badge/Render-0BD0E?style=flat&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0BD0E?style=flat)
 
 
 
@@ -169,12 +169,12 @@ Web and Deployment
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting · 2,308 GEE satellite points · AUC 0.9717 · F1 0.9022 · 50K residents · 41 CI tests · Zenodo DOI | scikit-learn · FastAPI · Docker · GEE | [Live API](https://nyando-flood-api.onrender.com/docs) |
-| [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier · 8 African countries · E2E 88% accuracy · HIGH precision 0.72 · 1,526 real rows | XGBoost · FastAPI · Docker · React 18 · Vercel | [Live](https://afrisalaries.vercel.app) |
-| [ChurchOS](https://github.com/jameskoero/ChurchOS) | Africa-first multi-tenant church SaaS · M-Pesa and Flutterwave · JWT auth · 5-role RBAC · Finance audit log · 15-test pytest suite | Flask 3.0 · React 18 · PostgreSQL · Render · Vercel | [Live](https://churchos-app.vercel.app) |
-| [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline · SHAP waterfalls · StratifiedKFold · Bootstrap CIs · 12 automated tests · Zenodo DOI · Accuracy 81.01% · ROC-AUC 0.8661 | scikit-learn · SHAP · Streamlit · FastAPI | [Live](https://titanic-koero.streamlit.app) |
-| [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing · Gini 0.74 · IFRS 9 staging · EL = PD x LGD x EAD · Threshold optimisation saves 23% cost vs default 0.50 | scikit-learn · pandas · FastAPI | - |
-| [K-Means Segmentation](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | 5 customer segments · Revenue gap analysis · Kenyan market localisation · M-Pesa strategy per segment · 6 visuals | scikit-learn · matplotlib · Google Colab | [Repo](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) |
+| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 50K residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, GEE | [Live API](https://nyando-flood-api.onrender.com/docs) |
+| [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React 18, Vercel | [Live](https://afrisalaries.vercel.app) |
+| [ChurchOS](https://github.com/jameskoero/ChurchOS) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log, 15-test pytest suite | Flask 3.0, React 18, PostgreSQL, Render, Vercel | [Live](https://churchos-app.vercel.app) |
+| [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline, SHAP waterfalls, StratifiedKFold, Bootstrap CIs, 12 automated tests, Zenodo DOI, Accuracy 81.01%, ROC-AUC 0.8661 | scikit-learn, SHAP, Streamlit, FastAPI | [Live](https://titanic-koero.streamlit.app) |
+| [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing, Gini 0.74, IFRS 9 staging, EL = PD x LGD x EAD, Threshold optimisation saves 23% cost | scikit-learn, pandas, FastAPI | - |
+| [K-Means Segmentation](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | 5 customer segments, Revenue gap analysis, Kenyan market localisation, M-Pesa strategy per segment, 6 visuals | scikit-learn, matplotlib, Google Colab | [Repo](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) |
 
 ---
 
@@ -188,7 +188,6 @@ Web and Deployment
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jameskoero&theme=dark&background=0A1628&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=C9A84C)
-
 
 
 
@@ -213,18 +212,18 @@ Web and Deployment
 
 | Status | Project | Domain | Data |
 |--------|---------|--------|------|
-| Live | [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | Climate / Disaster | GEE Satellite |
+| Live | [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | Climate and Disaster | GEE Satellite |
 | Live | [AfriSalaries](https://github.com/jameskoero/afrisalaries) | Labour Economics | Web-scraped |
-| Live | [ChurchOS](https://github.com/jameskoero/ChurchOS) | SaaS / Web App | PostgreSQL |
-| Live | [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | FinTech / Banking | Synthetic + Real |
-| Live | [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Education / Portfolio | Kaggle |
+| Live | [ChurchOS](https://github.com/jameskoero/ChurchOS) | SaaS and Web App | PostgreSQL |
+| Live | [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | FinTech and Banking | Synthetic and Real |
+| Live | [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Education and Portfolio | Kaggle |
 | Live | [K-Means Customer Segmentation](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | Retail Analytics | Kaggle |
-| Planned | RAG AI Insights Engine (ChurchOS Premium) | LLM Engineering | PostgreSQL + pgvector |
+| Planned | RAG AI Insights Engine (ChurchOS Premium) | LLM Engineering | PostgreSQL and pgvector |
 | Planned | QLoRA Fine-tuned Llama 3 | LLM Engineering | Custom |
-| Planned | Agentic WhatsApp AI App | Agentic AI | LangGraph + Render |
+| Planned | Agentic WhatsApp AI App | Agentic AI | LangGraph and Render |
 | Planned | M-Pesa Fraud Detection | FinTech | Transactional |
-| Planned | Malaria Outbreak Prediction | Public Health | WHO, DHIS2 |
-| Planned | Lake Victoria Water Quality | Environment | Satellite + IoT |
+| Planned | Malaria Outbreak Prediction | Public Health | WHO and DHIS2 |
+| Planned | Lake Victoria Water Quality | Environment | Satellite and IoT |
 
 ---
 
@@ -232,20 +231,20 @@ Web and Deployment
 
 | Certificate | Issuer | Date | Credential |
 |-------------|--------|------|------------|
-| Machine Learning using Python | Programming Hub / Google Developers Launchpad | Oct 2025 | bae4cf502b3dfe5 |
+| Machine Learning using Python | Programming Hub and Google Developers Launchpad | Oct 2025 | bae4cf502b3dfe5 |
 | Python Basics | Programiz | Sep 2025 | 08ddece2-fd4c-40eb-88d9-8f6b142466b0 |
 
 ---
 
 ## Education
 
-B.Sc. Physics (Major) + Mathematics (Minor) — Moi University, Kenya · 2008-2012
+B.Sc. Physics (Major) + Mathematics (Minor) — Moi University, Kenya 2008-2012
 
-Classical Mechanics · Statistical Physics · Linear Algebra · Calculus · Numerical Methods
+Classical Mechanics, Statistical Physics, Linear Algebra, Calculus, Numerical Methods
 
 Research: Eburru Geothermal Prospect (MT and TEM methods) — Prof. Mghendi Mwamburi
 
-Industrial Attachment — KenGen Olkaria Geothermal Project · 2011
+Industrial Attachment — KenGen Olkaria Geothermal Project 2011
 
 Large-scale geophysical survey data collection at the most productive geothermal
 field in Africa. Applied MT and TEM subsurface imaging — first exposure to
@@ -263,7 +262,7 @@ scientific data pipelines at production scale.
 
 ---
 
-Available for remote ML Engineering · AI Engineering · Data Science roles globally.
+Available for remote ML Engineering, AI Engineering, Data Science roles globally.
 Open to research collaborations and grant-funded projects in climate, fintech, and public health.
 
 Building from Kisumu, Kenya — one model at a time.
