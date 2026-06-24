@@ -4,7 +4,19 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=jameskoero&color=gold&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=jameskoero&color=FFA500&style=flat&label=Profile+Views)
+
+ 
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-jameskoero-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+ 
+
+![Email](https://img.shields.io/badge/Email-jmskoero%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+
+ 
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Live_API-00C853?style=flat&logo=render&logoColor=white)
 
 
 
@@ -13,22 +25,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A84C&width=500&lines=ML+Engineer+from+Kisumu+Kenya;Building+AI+for+Real+African+Problems;5+Live+APIs+in+Production;Built+entirely+on+Android)
 
 
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-jameskoero-0077B5?style=flat&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/jameskoero)
-[
-
-![Email](https://img.shields.io/badge/Email-jmskoero%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
-
-](mailto:jmskoero@gmail.com)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Live_API-00C853?style=flat&logo=render&logoColor=white)
-
-](https://nyando-flood-api.onrender.com/docs)
 
 ---
 
@@ -78,21 +74,17 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 **Languages and Data**
 
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-
-
+ 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-
-
+ 
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-
-
+ 
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
@@ -101,26 +93,21 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 **Machine Learning and AI**
 
 
-
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-
-
+ 
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 
-
-
+ 
 
 ![GradientBoosting](https://img.shields.io/badge/GradientBoosting-0A1628?style=flat)
 
-
-
+ 
 
 ![SHAP](https://img.shields.io/badge/SHAP-C9A84C?style=flat)
 
-
-
+ 
 
 ![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google&logoColor=white)
 
@@ -129,36 +116,29 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 **Web and Deployment**
 
 
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-
-
+ 
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-
-
+ 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-
-
+ 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
-
+ 
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
-
-
+ 
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-
-
+ 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
