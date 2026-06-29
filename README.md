@@ -149,14 +149,14 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 ## Featured Projects
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 50K residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, GEE | [Live API](https://nyando-flood-api.onrender.com/docs) |
-| [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React 18, Vercel | [Live](https://afrisalaries.vercel.app) |
-| [ChurchOS](https://github.com/jameskoero/ChurchOS) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log | Flask 3.0, React 18, PostgreSQL, Render, Vercel | [Live](https://churchos-app.vercel.app) |
-| [SegmentIQ - K-Means App](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | Live ML app — predict customer segment from age, income, spending score. CSV batch upload. 5 segments, Kenyan market strategy | scikit-learn, FastAPI, React, Render, Vercel | [Live App](https://kmeans-customer-segmentation.vercel.app) |
-| [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline, SHAP waterfalls, StratifiedKFold, Bootstrap CIs, 12 tests, Zenodo DOI, AUC 0.8661 | scikit-learn, SHAP, Streamlit, FastAPI | [Live](https://titanic-koero.streamlit.app) |
-| [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing, Gini 0.74, IFRS 9 staging, EL = PD x LGD x EAD, saves 23% cost | scikit-learn, pandas, FastAPI | - |
+| Project | Description | Stack |
+|---|---|---|
+| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 50K residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, React |
+| [ChurchOS](https://github.com/jameskoero/churchos) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log | Flask, React, PostgreSQL, Render, Vercel |
+| [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React, Vercel |
+| [SegmentIQ - K-Means App](https://github.com/jameskoero/kmeans-customer-segmentation) | Live ML app — predict customer segment from age, income, spending score. CSV batch upload. 5 segments, Kenyan market strategy | scikit-learn, FastAPI, React, Render, Vercel |
+| [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing, Gini 0.74, IFRS 9 staging, EL = PD x LGD x EAD, saves 23% cost | scikit-learn, pandas, FastAPI |
+| [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline, SHAP waterfalls, StratifiedKFold, Bootstrap CIs, 12 tests, Zenodo DOI, AUC 0.8661 | scikit-learn, SHAP, Streamlit, FastAPI |
 
 ---
 
@@ -186,20 +186,14 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 ## Project Roadmap
 
-| Status | Project | Domain | Data |
-|--------|---------|--------|------|
-| Live | [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | Climate and Disaster | GEE Satellite |
-| Live | [AfriSalaries](https://github.com/jameskoero/afrisalaries) | Labour Economics | Web-scraped |
-| Live | [ChurchOS](https://github.com/jameskoero/ChurchOS) | SaaS and Web App | PostgreSQL |
-| Live | [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | FinTech and Banking | Synthetic and Real |
-| Live | [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Education and Portfolio | Kaggle |
-| Live | [SegmentIQ K-Means App](https://github.com/jameskoero/jameskoero-kmeans-customer-segmentation) | Retail Analytics and ML App | Kaggle |
-| Planned | RAG AI Insights Engine | LLM Engineering | PostgreSQL and pgvector |
-| Planned | QLoRA Fine-tuned Llama 3 | LLM Engineering | Custom |
-| Planned | Agentic WhatsApp AI App | Agentic AI | LangGraph and Render |
-| Planned | M-Pesa Fraud Detection | FinTech | Transactional |
-| Planned | Malaria Outbreak Prediction | Public Health | WHO and DHIS2 |
-| Planned | Lake Victoria Water Quality | Environment | Satellite and IoT |
+| Status | Project | Description | Stack |
+|---|---|---|
+| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 50K residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, React |
+| [ChurchOS](https://github.com/jameskoero/churchos) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log | Flask, React, PostgreSQL, Render, Vercel |
+| [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React, Vercel |
+| [SegmentIQ - K-Means App](https://github.com/jameskoero/kmeans-customer-segmentation) | Live ML app — predict customer segment from age, income, spending score. CSV batch upload. 5 segments, Kenyan market strategy | scikit-learn, FastAPI, React, Render, Vercel |
+| [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing, Gini 0.74, IFRS 9 staging, EL = PD x LGD x EAD, saves 23% cost | scikit-learn, pandas, FastAPI |
+| [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline, SHAP waterfalls, StratifiedKFold, Bootstrap CIs, 12 tests, Zenodo DOI, AUC 0.8661 | scikit-learn, SHAP, Streamlit, FastAPI |
 
 ---
 
