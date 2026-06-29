@@ -62,7 +62,7 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 - Build end-to-end ML systems — raw data to feature engineering to model training to live API
 - Apply Physics and Mathematics background to feature engineering and model evaluation
-- Reduce real disaster risk — Nyando Flood AI gives 50,000 Kano Plains residents earlier warning
+- Reduce real disaster risk — Nyando Flood AI gives 161,000 Kano Plains residents earlier warning
 - Ship production-grade code — FastAPI, Flask, Docker, GitHub Actions CI/CD
 - Explain every prediction with SHAP — because unexplainable AI is not good enough
 - Build secure multi-tenant SaaS — JWT rotation, RBAC, M-Pesa payment integration
@@ -151,7 +151,7 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 | Project | Description | Stack |
 |---|---|---|
-| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 50K residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, React |
+| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 161,000+ residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, React |
 | [ChurchOS](https://github.com/jameskoero/churchos) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log | Flask, React, PostgreSQL, Render, Vercel |
 | [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React, Vercel |
 | [SegmentIQ - K-Means App](https://github.com/jameskoero/kmeans-customer-segmentation) | Live ML app — predict customer segment from age, income, spending score. CSV batch upload. 5 segments, Kenyan market strategy | scikit-learn, FastAPI, React, Render, Vercel |
