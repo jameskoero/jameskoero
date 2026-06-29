@@ -164,19 +164,19 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 
 
-![James GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameskoero&show_icons=true&theme=dark&bg_color=0A1628&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&border_color=C9A84C&include_all_commits=true&count_private=true)
+[![James GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameskoero&show_icons=true&theme=dark&bg_color=0A1628&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&border_color=C9A84C&include_all_commits=true&count_private=true)](https://github.com/jameskoero)
 
 
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jameskoero&theme=dark&background=0A1628&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=C9A84C)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jameskoero&theme=dark&background=0A1628&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=C9A84C)](https://github.com/jameskoero)
 
 
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskoero&layout=compact&theme=dark&bg_color=0A1628&title_color=C9A84C&text_color=ffffff&border_color=C9A84C)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskoero&layout=compact&theme=dark&bg_color=0A1628&title_color=C9A84C&text_color=ffffff&border_color=C9A84C)](https://github.com/jameskoero)
 
 
 
