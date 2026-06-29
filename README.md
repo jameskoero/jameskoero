@@ -151,12 +151,12 @@ a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 | Project | Description | Stack |
 |---|---|---|
-| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 161,000+ residents, 41 CI tests, Zenodo DOI | scikit-learn, FastAPI, Docker, React |
+| [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 161,000+ residents, [Zenodo](https://doi.org/10.5281/zenodo.20088663)dents, 41 CI tests, [Zenodo DOI](https://doi.org/10.5281/zenodo.20088663) | scikit-learn, FastAPI, Docker, React |
 | [ChurchOS](https://github.com/jameskoero/churchos) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log | Flask, React, PostgreSQL, Render, Vercel |
 | [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React, Vercel |
 | [SegmentIQ - K-Means App](https://github.com/jameskoero/kmeans-customer-segmentation) | Live ML app — predict customer segment from age, income, spending score. CSV batch upload. 5 segments, Kenyan market strategy | scikit-learn, FastAPI, React, Render, Vercel |
 | [Loan Risk Assessment](https://github.com/jameskoero/loan-risk-assessment) | Basel III framing, Gini 0.74, IFRS 9 staging, EL = PD x LGD x EAD, saves 23% cost | scikit-learn, pandas, FastAPI |
-| [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline, SHAP waterfalls, StratifiedKFold, Bootstrap CIs, 12 tests, Zenodo DOI, AUC 0.8661 | scikit-learn, SHAP, Streamlit, FastAPI |
+| [Titanic Survival](https://github.com/jameskoero/titanic-survival-prediction) | Leak-free LR Pipeline, SHAP waterfalls, StratifiedKFold, Bootstrap CIs, 12 tests, [Zenodo DOI](https://doi.org/10.5281/zenodo.20387973), AUC 0.8661 | scikit-learn, SHAP, Streamlit, FastAPI |
 
 ---
 
