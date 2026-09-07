@@ -1,6 +1,6 @@
 # Hi, I am James Koero
 
-### ML Engineer | 6 Live Projects in Production | Physics and Mathematics | Kisumu, Kenya | Open to Remote Roles Globally
+### ML Engineer | 7 Live Projects in Production | Physics and Mathematics | Kisumu, Kenya | Open to Remote Roles Globally
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A84C&width=500&lines=ML+Engineer+from+Kisumu+Kenya;6+Live+Projects+in+Production;Building+AI+for+Real+African+Problems;Built+entirely+on+Android)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C9A84C&width=500&lines=ML+Engineer+from+Kisumu+Kenya;7+Live+Projects+in+Production;Building+AI+for+Real+African+Problems;Built+entirely+on+Android)
 
 
 
@@ -18,9 +18,9 @@
 
 ## About Me
 
-Self-taught ML Engineer from Kisumu, Kenya — building production-ready ML systems that solve real African problems, from flood prediction to salary transparency.
+Self-taught ML Engineer from Kisumu, Kenya — building production-ready ML systems that solve real African problems, from flood prediction to salary transparency to sports governance accountability.
 
-With a B.Sc. in Physics and Mathematics from Moi University and hands-on geophysical field research at KenGen Olkaria Geothermal Project, I bring scientific rigour to every model I build. Every project ships with a live URL, SHAP explainability, and a real problem it solves — built entirely on Android (Termux, Google Colab).
+With a B.Sc. in Physics and Mathematics from Moi University and hands-on geophysical field research at KenGen Olkaria Geothermal Project, I bring scientific rigour to every model I build. Every project ships with a live URL, SHAP explainability where applicable, and a real problem it solves — built entirely on Android (Termux, Google Colab).
 
 - B.Sc. Physics (Major) + Mathematics (Minor) — Moi University, 2012
 - Industrial Attachment — KenGen Olkaria Geothermal Project, 2011
@@ -36,7 +36,7 @@ With a B.Sc. in Physics and Mathematics from Moi University and hands-on geophys
 - Exploring: LLM Engineering — RAG pipelines, pgvector on Neon, LangGraph agentic AI
 - Building: Sokoni — WhatsApp AI sales agent for Kenyan SMEs (in progress)
 - Next: QLoRA fine-tuning on Llama 3 and Mistral via Colab T4
-- Ask me about: flood prediction, African salary data, church management SaaS, K-Means segmentation
+- Ask me about: flood prediction, African salary data, church management SaaS, K-Means segmentation, sports governance data
 
 ---
 
@@ -48,6 +48,7 @@ With a B.Sc. in Physics and Mathematics from Moi University and hands-on geophys
 - Ship production-grade code — FastAPI, Flask, Docker, GitHub Actions CI/CD
 - Explain every prediction with SHAP — because unexplainable AI is not good enough
 - Build secure multi-tenant SaaS — JWT rotation, RBAC, M-Pesa payment integration
+- Apply peer-reviewed governance methodology to open datasets — not just self-invented metrics
 - Localise global ML techniques to African business contexts — M-Pesa, Safaricom, BNPL
 
 ---
@@ -63,6 +64,10 @@ With a B.Sc. in Physics and Mathematics from Moi University and hands-on geophys
  
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+ 
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
  
 
@@ -137,6 +142,7 @@ With a B.Sc. in Physics and Mathematics from Moi University and hands-on geophys
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | [Nyando Flood AI](https://github.com/jameskoero/nyando-flood-ai) | GradientBoosting, 2308 GEE satellite points, AUC 0.9717, F1 0.9022, 161,000+ residents, 41 CI tests, [Zenodo](https://doi.org/10.5281/zenodo.20088663) | scikit-learn, FastAPI, Docker, React | [API](https://nyando-flood-api.onrender.com/docs) |
+| [Kenya at Gold: The Governance Ledger](https://github.com/jameskoero/kenya-gold-ledger) | 39 Olympic golds individually catalogued, 12 sourced governance/doping incidents (2015-2026), first application of the peer-reviewed Sports Governance Observer methodology to Kenyan athletics | FastAPI, SQLite, scikit-learn | [API](https://kenya-gold-ledger-api.onrender.com/docs) · [Dashboard](https://kenya-gold-ledger.vercel.app) |
 | [ChurchOS](https://github.com/jameskoero/ChurchOS) | Africa-first multi-tenant church SaaS, M-Pesa and Flutterwave, JWT auth, 5-role RBAC, Finance audit log | Flask, React, PostgreSQL, Render, Vercel | [Demo](https://churchos-app.vercel.app) |
 | [AfriSalaries](https://github.com/jameskoero/afrisalaries) | XGBoost salary band classifier, 8 African countries, E2E 88% accuracy, HIGH precision 0.72, 1526 real rows | XGBoost, FastAPI, Docker, React, Vercel | [App](https://afrisalaries.vercel.app) |
 | [SegmentIQ](https://github.com/jameskoero/kmeans-customer-segmentation) | Live K-Means ML app, customer segmentation from age, income, spending score, CSV batch upload, 5 segments | scikit-learn, FastAPI, React, Render, Vercel | [App](https://kmeans-customer-segmentation.vercel.app) |
@@ -172,6 +178,7 @@ With a B.Sc. in Physics and Mathematics from Moi University and hands-on geophys
 | Status | Project | Domain |
 |---|---|---|
 | Live | [Nyando Flood Risk AI](https://github.com/jameskoero/nyando-flood-ai) | Climate / Disaster |
+| Live | [Kenya at Gold: The Governance Ledger](https://github.com/jameskoero/kenya-gold-ledger) | Sports Governance / Open Data |
 | Live | [ChurchOS](https://github.com/jameskoero/ChurchOS) | SaaS / Web App |
 | Live | [AfriSalaries](https://github.com/jameskoero/afrisalaries) | Labour Economics |
 | Live | [SegmentIQ](https://github.com/jameskoero/kmeans-customer-segmentation) | ML / Customer Analytics |
