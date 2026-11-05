@@ -65,9 +65,23 @@ An open-source system that ranks flood susceptibility across five wards of the N
 
 ## 🧰 Tech stack
 
-<div align="center">
-<img src="assets/stack.svg" alt="Tech stack. Machine learning: Python, scikit-learn, gradient boosting, XGBoost, PyTorch, SHAP, ONNX Runtime, pandas, NumPy. Validation: leave-one-event-out CV, spatial CV, leakage audits, bootstrap intervals, monotonic constraints, model cards. Geospatial: Google Earth Engine, Sentinel-1 SAR, Copernicus GFM, remote sensing. MLOps: GitHub Actions, MLflow, DagsHub, Docker, pytest, CodeQL, Dependabot, Render, Vercel. Backend: FastAPI, Flask, React, JavaScript, PostgreSQL, SQLite. LLM and agents: Gemini API, Groq API, output guardrails, MCP, LangGraph." width="720">
-</div>
+**Machine learning**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-0A1628?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![SHAP](https://img.shields.io/badge/SHAP-C9A84C?style=flat) ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat&logo=onnx&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Validation and statistics**<br>
+![Leave-one-event-out CV](https://img.shields.io/badge/Leave--one--event--out_CV-8E7CFF?style=flat) ![Spatial CV](https://img.shields.io/badge/Spatial_CV-8E7CFF?style=flat) ![Leakage audits](https://img.shields.io/badge/Leakage_audits-8E7CFF?style=flat) ![Bootstrap intervals](https://img.shields.io/badge/Bootstrap_intervals-8E7CFF?style=flat) ![Monotonic constraints](https://img.shields.io/badge/Monotonic_constraints-8E7CFF?style=flat) ![Model cards](https://img.shields.io/badge/Model_cards-8E7CFF?style=flat)
+
+**Geospatial**<br>
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google&logoColor=white) ![Sentinel-1 SAR](https://img.shields.io/badge/Sentinel--1_SAR-1F6FB2?style=flat) ![Copernicus GFM](https://img.shields.io/badge/Copernicus_GFM-0B4A52?style=flat) ![Remote sensing](https://img.shields.io/badge/Remote_sensing-4DA3FF?style=flat)
+
+**MLOps and delivery**<br>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![DagsHub](https://img.shields.io/badge/DagsHub-1F2937?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=flat&logo=github&logoColor=white) ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=flat&logo=dependabot&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Backend and web**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**LLM and agents**<br>
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat) ![Output guardrails](https://img.shields.io/badge/Output_guardrails-C0392B?style=flat) ![MCP](https://img.shields.io/badge/MCP-1C3C3C?style=flat) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
