@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="James Koero, Machine Learning Engineer, Kisumu, Kenya">
+<title>James Koero, Machine Learning Engineer</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06172b"/><stop offset=".55" stop-color="#0a2d47"/><stop offset="1" stop-color="#0b4a52"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#1ABC9C"/><stop offset="1" stop-color="#C9A84C"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#E5484D" stop-opacity=".55"/><stop offset="1" stop-color="#E5484D" stop-opacity="0"/></radialGradient>
+<clipPath id="card"><rect width="1000" height="380" rx="18"/></clipPath>
+</defs>
+<style>
+.t{opacity:0;animation:cyc 12s infinite}.t1{opacity:1}.t2{animation-delay:3s}.t3{animation-delay:6s}.t4{animation-delay:9s}
+@keyframes cyc{0%{opacity:0;transform:translateY(8px)}3%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0}}
+.r{transform-box:fill-box;transform-origin:center;animation:pulse 4.5s ease-out infinite;opacity:0}.r2{animation-delay:1.5s}.r3{animation-delay:3s}
+@keyframes pulse{0%{transform:scale(.25);opacity:.9}100%{transform:scale(1.45);opacity:0}}
+.s{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 7s ease-in-out infinite}
+@keyframes draw{0%{stroke-dashoffset:1}60%,100%{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.t,.r,.s{animation:none}.s{stroke-dashoffset:0}.r{opacity:.25}.t2,.t3,.t4{opacity:0}}
+</style>
+<g clip-path="url(#card)">
+<rect width="1000" height="380" fill="url(#bg)"/>
+<circle cx="905" cy="40" r="190" fill="url(#glow)"/>
+<circle cx="815" cy="150" r="70" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+<circle cx="815" cy="150" r="115" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+<circle cx="815" cy="150" r="160" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+<circle cx="815" cy="150" r="205" fill="none" stroke="#ffffff" stroke-opacity=".05"/>
+<circle cx="40" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="88" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="136" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="184" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="232" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="280" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="328" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="376" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="424" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="472" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="520" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="568" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="616" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="664" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="712" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="760" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="808" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="856" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="904" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<circle cx="952" cy="36" r="1.6" fill="#ffffff" fill-opacity=".10"/>
+<g fill="none" stroke="#1ABC9C" stroke-width="2.4" stroke-linecap="round">
+<circle class="r" cx="815" cy="150" r="64"/><circle class="r r2" cx="815" cy="150" r="64"/><circle class="r r3" cx="815" cy="150" r="64"/>
+</g>
+<circle cx="815" cy="150" r="9" fill="#E5484D"/><circle cx="815" cy="150" r="20" fill="#E5484D" fill-opacity=".25"/>
+<text x="815" y="262" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="17" fill="#9fb4c7" letter-spacing="1.5">FROM GEOPHYSICS TO ML</text>
+<path class="s" pathLength="1" d="M0,346.0 L6,349.8 L12,342.7 L18,346.4 L24,346.0 L30,347.8 L36,344.7 L42,343.5 L48,351.0 L54,343.4 L60,344.6 L66,348.0 L72,345.9 L78,346.3 L84,342.9 L90,349.8 L96,346.0 L102,342.1 L108,349.4 L114,345.6 L120,345.8 L126,344.4 L132,347.3 L138,348.5 L144,341.0 L150,348.6 L156,347.4 L162,343.8 L168,346.3 L174,345.7 L180,349.0 L186,342.3 L192,346.0 L198,350.0 L204,342.4 L210,346.5 L216,346.3 L222,347.4 L228,344.8 L234,343.6 L240,351.0 L246,343.3 L252,344.5 L258,348.4 L264,345.6 L270,346.3 L276,343.2 L282,349.6 L288,346.0 L294,342.0 L300,349.7 L306,345.5 L312,345.5 L318,344.8 L324,347.2 L330,348.4 L336,341.0 L342,348.8 L348,347.5 L354,343.4 L360,346.6 L366,345.8 L372,348.8 L378,342.2 L384,346.1 L390,350.4 L396,341.7 L402,346.6 L408,346.8 L414,347.2 L420,344.6 L426,343.0 L432,352.7 L438,342.0 L444,343.7 L450,350.4 L456,344.8 L462,346.3 L468,341.3 L474,353.0 L480,345.9 L486,336.7 L492,355.6 L498,344.4 L504,343.8 L510,343.6 L516,349.2 L522,353.3 L528,329.1 L534,356.2 L540,352.1 L546,334.4 L552,349.6 L558,345.5 L564,356.3 L570,330.9 L576,346.3 L582,365.2 L588,326.8 L594,349.1 L600,350.5 L606,348.8 L612,341.4 L618,336.0 L624,368.2 L630,333.2 L636,338.9 L642,359.2 L648,341.7 L654,346.3 L660,337.8 L666,357.8 L672,345.7 L678,332.5 L684,358.9 L690,344.0 L696,343.0 L702,345.0 L708,348.2 L714,350.7 L720,335.8 L726,351.8 L732,349.1 L738,340.2 L744,348.0 L750,345.9 L756,349.0 L762,341.5 L768,346.1 L774,351.4 L780,340.7 L786,346.9 L792,347.4 L798,346.2 L804,345.1 L810,343.9 L816,351.0 L822,342.9 L828,344.3 L834,349.5 L840,344.6 L846,346.0 L852,344.2 L858,349.0 L864,345.9 L870,341.9 L876,350.3 L882,345.2 L888,344.7 L894,346.0 L900,346.8 L906,347.9 L912,341.4 L918,348.9 L924,347.7 L930,342.5 L936,347.5 L942,346.0 L948,347.6 L954,343.1 L960,346.1 L966,350.1 L972,341.6 L978,346.8 L984,347.5 L990,345.7 L996,345.3" fill="none" stroke="url(#ln)" stroke-width="2.6" stroke-linejoin="round"/>
+<text x="48" y="72" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#C9A84C" letter-spacing="3">KISUMU, KENYA  |  OPEN TO REMOTE ROLES</text>
+<text x="46" y="152" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#ffffff">James Koero</text>
+<text x="48" y="202" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#1ABC9C">Machine Learning Engineer</text>
+<text x="48" y="240" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="23" fill="#9fb4c7">MLOps  |  Geospatial and Applied ML</text>
+<rect x="48" y="268" width="6" height="34" rx="3" fill="#E5484D"/>
+<text class="t t1" x="68" y="294" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#EAF6F4">Leakage-controlled model validation</text>
+<text class="t t2" x="68" y="294" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#EAF6F4">ONNX and FastAPI deployment</text>
+<text class="t t3" x="68" y="294" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#EAF6F4">MLOps, CI/CD and reproducible research</text>
+<text class="t t4" x="68" y="294" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#EAF6F4">Geospatial AI from Sentinel-1 data</text>
+</g>
+</svg>
