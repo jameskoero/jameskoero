@@ -4,11 +4,7 @@
 
 <br>
 
-<a href="https://nyando-flood-ai.vercel.app/">🌊 Live dashboard</a> &nbsp;|&nbsp;
-<a href="https://github.com/jameskoero/nyando-flood-ai">💻 Source code</a> &nbsp;|&nbsp;
-<a href="https://doi.org/10.5281/zenodo.23919053">📄 v2.0.0 on Zenodo</a> &nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/jameskoero">💼 LinkedIn</a> &nbsp;|&nbsp;
-<a href="https://orcid.org/0009-0001-8314-2682">🆔 ORCID</a>
+<a href="https://nyando-flood-ai.vercel.app/"><img alt="Live dashboard" src="https://img.shields.io/badge/Live_dashboard-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white"></a> <a href="https://github.com/jameskoero/nyando-flood-ai"><img alt="Source code" src="https://img.shields.io/badge/Source_code-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://doi.org/10.5281/zenodo.23919053"><img alt="Zenodo DOI" src="https://img.shields.io/badge/Zenodo_DOI-1682D4?style=for-the-badge&logo=zenodo&logoColor=white"></a> <a href="https://www.linkedin.com/in/jameskoero"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://orcid.org/0009-0001-8314-2682"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
 
 </div>
 
@@ -32,16 +28,13 @@ I came to ML from physics and geophysics: B.Sc. Physics and Mathematics (Moi Uni
 
 ## 📊 Nyando Flood AI V2 at a glance
 
-<table align="center">
-<tr align="center">
-<td width="50%"><h2>0.971</h2>per-event mean AUC<br>27 sealed events, scored once</td>
-<td width="50%"><h2>+0.038</h2>gain over elevation alone<br>95% interval 0.019 to 0.061, 50 events</td>
-</tr>
-<tr align="center">
-<td width="50%"><h2>4,420</h2>real samples<br>35 Sentinel-1 scene dates</td>
-<td width="50%"><h2>96</h2>test files in CI<br>plus a 58-row deviation register</td>
-</tr>
-</table>
+<div align="center">
+
+<img alt="Per-event mean AUC: 0.971" src="https://img.shields.io/badge/Per--event_mean_AUC-0.971-1ABC9C?style=for-the-badge&labelColor=06172B"> <img alt="Gain over elevation: +0.038" src="https://img.shields.io/badge/Gain_over_elevation-%2B0.038-4DA3FF?style=for-the-badge&labelColor=06172B"> <img alt="Real samples: 4,420" src="https://img.shields.io/badge/Real_samples-4%2C420-8E7CFF?style=for-the-badge&labelColor=06172B"> <img alt="Sealed test events: 27" src="https://img.shields.io/badge/Sealed_test_events-27-C9A84C?style=for-the-badge&labelColor=06172B"> <img alt="Test files in CI: 96" src="https://img.shields.io/badge/Test_files_in_CI-96-F5A524?style=for-the-badge&labelColor=06172B"> <img alt="Deviation register: 58 rows" src="https://img.shields.io/badge/Deviation_register-58_rows-3DD68C?style=for-the-badge&labelColor=06172B">
+
+Gain over elevation alone: 95% interval 0.019 to 0.061, pooled over 50 events. Sealed test: 27 held-out events, scored once. Data: 35 Sentinel-1 scene dates.
+
+</div>
 
 ## 🌊 Flagship: Nyando Flood AI V2
 
