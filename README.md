@@ -36,6 +36,7 @@ An open-source system that ranks flood susceptibility across five wards of the N
 - **LLM layer:** an advisory service (Gemini, Groq fallback, deterministic template) behind an output guard, plus an MCP server and a LangGraph pipeline. One model passed my guard 6 of 6 times yet named the correct drivers 0 of 6, so driver text now comes only from the template.
 
 Scores are rankings from a case-control sample. They are not flood probabilities, forecasts or official warnings.
+
 ---
 
 ## Other projects
@@ -59,7 +60,8 @@ Scores are rankings from a case-control sample. They are not flood probabilities
 - **MLOps:** GitHub Actions, MLflow, DagsHub, Docker, pytest, CodeQL, Dependabot
 - **Backend and web:** FastAPI, Flask, React, PostgreSQL, SQLite, Render, Vercel
 - **LLM and agents:** Gemini and Groq APIs, output guardrails, Model Context Protocol, LangGraph
-- ---
+
+---
 
 ## Currently
 
